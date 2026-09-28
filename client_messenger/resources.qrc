@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>default_avatar.png</file>
+        <file>message.png</file>
+        <file>message_new.png</file>
+    </qresource>
+</RCC>
